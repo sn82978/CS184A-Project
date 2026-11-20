@@ -3,3 +3,6 @@ DATA
 *.jpg
 *.png
 *.jpeg
+*.npy
+*.data
+.DS_Store

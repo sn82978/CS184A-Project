@@ -1,5 +1,16 @@
 # Detecting Flies in Videos to Study Aging
 
+## Dataset Information
+
+12 Normal Categories:
+BAS (Basophil), EBO (Erythroblast), EOS (Eosinophil), LYT (Lymphocyte), MMZ (Metamyelocyte), MON (Monocyte), MYB (Myelocyte), NGB (Band neutrophil), NGS (Segmented neutrophil), PEB (Proerythroblast), PLM (Plasma cell), PMO (Promyelocyte)
+
+6 Abnormal Categories:
+ABE (Abnormal eosinophil), BLA (Blast), FGC (Faggott cell), HAC (Hairy cell), KSC (Smudge cell), LYI (Immature lymphocyte)
+
+3 "Other" Categories:
+ART (Artefact), NIF (Not identifiable), OTH (Other cell)
+
 ## Presentation/Information
 We will use the following criteria to grade your presentations *(note: this applies only to the presentation, not the written report)*:
 

@@ -1,2 +1,5 @@
 DATA
 .venv
+*.jpg
+*.png
+*.jpeg

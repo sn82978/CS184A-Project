@@ -6,3 +6,7 @@ DATA
 *.npy
 *.data
 .DS_Store
+._.DS_Store
+._data_view.ipynb
+._get_embeddings.ipynb
+._train_vit.ipynb

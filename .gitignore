@@ -1,8 +1,6 @@
 DATA
 .venv
-*.jpg
-*.png
-*.jpeg
+DATA_PP
 *.npy
 *.data
 .DS_Store
@@ -10,3 +8,4 @@ DATA
 ._data_view.ipynb
 ._get_embeddings.ipynb
 ._train_vit.ipynb
+*.pt

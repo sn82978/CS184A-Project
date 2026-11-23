@@ -9,3 +9,4 @@ DATA_PP
 ._get_embeddings.ipynb
 ._train_vit.ipynb
 *.pt
+.ipynb_checkpoints/

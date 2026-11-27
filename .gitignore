@@ -10,3 +10,4 @@ DATA_PP
 *.pt
 .ipynb_checkpoints/
 Models/ResNetkNN/*.npy
+*.npy

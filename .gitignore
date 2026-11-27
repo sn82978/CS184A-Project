@@ -1,7 +1,6 @@
 DATA
 .venv
 DATA_PP
-*.npy
 *.data
 .DS_Store
 ._.DS_Store
@@ -10,3 +9,5 @@ DATA_PP
 ._train_vit.ipynb
 *.pt
 .ipynb_checkpoints/
+Models/ResNetkNN/*.npy
+*.npy
